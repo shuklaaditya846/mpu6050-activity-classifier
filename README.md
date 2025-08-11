@@ -37,4 +37,4 @@ See `repo_structure` section above.
 
 ### 2️⃣ Data Collection
 ```bash
-python src/data_collection.py
+python src/collect-data.py
