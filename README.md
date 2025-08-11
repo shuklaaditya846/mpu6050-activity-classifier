@@ -25,11 +25,6 @@ It demonstrates **sensor data processing, feature engineering, and real-time inf
 
 ---
 
-## 📂 Repo Structure
-See `repo_structure` section above.
-
----
-
 ## 🚀 Getting Started
 ### 1️⃣ Hardware Setup
 - Connect MPU6050 → Arduino as per `hardware/wiring_diagram.png`
