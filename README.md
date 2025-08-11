@@ -19,7 +19,7 @@ It demonstrates **sensor data processing, feature engineering, and real-time inf
 ## 🛠️ Tech Stack
 - **Hardware:** ESP8266 Microcontroller + MPU6050
 - **C++:** Code for the microcontroller
-- **Python:** pandas, numpy, scikit-learn, FastAPI
+- **Python:** pandas, numpy, scikit-learn
 - **ML:** RandomForest, TensorFlow
 - **Other:** matplotlib, seaborn (EDA), plotly
 

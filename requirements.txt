@@ -1,0 +1,9 @@
+pyserial
+pandas
+scikit-learn
+matplotlib
+plotly
+nbformat
+keras
+seaborn
+tensorflow
